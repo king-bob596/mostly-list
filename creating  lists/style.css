@@ -1,0 +1,41 @@
+#gfd>li:nth-of-type(even){
+    background-color: aqua;
+    position: relative;
+   
+}
+#gt>li:nth-of-type(even){
+    background-color: rgba(111, 0, 255, 0.363);
+}
+#gt>li:nth-of-type(odd){
+    background-color: rgba(0, 119, 255, 0.712);
+}
+#gfd>li:nth-of-type(odd){
+    background-color:aquamarine
+    
+}
+#gfd{
+    list-style-type: circle;
+}
+#as{ display:inline-block;
+background-color: rgba(130, 235, 10, 0.705);
+position: relative;
+}
+#qw{display:inline-block;
+background-color: rgba(0, 255, 221, 0.562);
+position: relative;
+}
+#ed{display:inline-block;
+background-color: rgb(255, 0, 128);
+position: relative;
+
+}
+#rf{display:inline-block;
+    background-color: rgba(126, 0, 243, 0.493);
+    position: relative;
+
+}
+body{
+    background-color: antiquewhite;
+    position: relative;
+    margin:opx auto;
+}
